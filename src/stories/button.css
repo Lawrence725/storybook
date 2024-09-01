@@ -1,3 +1,5 @@
+@import "../styles/variable.less";
+
 .storybook-button {
   font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
@@ -9,7 +11,7 @@
 }
 .storybook-button--primary {
   color: white;
-  background-color: #1ea7fd;
+  background-color: #FF9900;
 }
 .storybook-button--secondary {
   color: #333;
